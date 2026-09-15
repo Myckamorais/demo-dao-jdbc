@@ -1,6 +1,4 @@
-package application;
-
-import model.entities.Department;
+package model.entities;
 
 import java.io.Serial;
 import java.io.Serializable;
